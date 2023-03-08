@@ -1,4 +1,4 @@
-package com.atguigu;
+package com.atguigu.testfunction;
 
 import Function.MyRedisSink;
 import bean.Event;

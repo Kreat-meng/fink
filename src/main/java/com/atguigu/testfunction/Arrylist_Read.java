@@ -1,4 +1,4 @@
-package com.atguigu;
+package com.atguigu.testfunction;
 
 import bean.Event;
 import org.apache.flink.streaming.api.datastream.DataStreamSource;

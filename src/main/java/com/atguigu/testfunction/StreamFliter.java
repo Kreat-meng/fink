@@ -1,4 +1,4 @@
-package com.atguigu;
+package com.atguigu.testfunction;
 
 import Function.MySourceFunction;
 import bean.Event;
